@@ -1,0 +1,16 @@
+{
+  "checked_at_utc": "2026-10-13T09:37:37.829Z",
+  "source_local_full_snapshot_was_verified": true,
+  "retained_original_values_checked": 29,
+  "variable_record_count": 30,
+  "redacted_value_names": [
+    "IGCCSVC_DB"
+  ],
+  "redacted_value_absent_from_public_files": true,
+  "retained_values_and_types_match_source": true,
+  "public_backup_sha256_matches": true,
+  "restore_script_same_as_source": true,
+  "public_cmd_launcher_preview_completed": true,
+  "preview_planned_writes_on_original_machine": 0,
+  "apply_mode_executed": false
+}

@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-13T09:47:33+08:00",
+  "captured_timezone": "Asia/Shanghai",
+  "user_profile": "C:\\Users\\liuya",
+  "system_drive": "C:",
+  "windows_directory": "C:\\Windows",
+  "process_architecture": "AMD64",
+  "registry_view": "Registry64",
+  "drives": [
+    {
+      "root": "C:\\",
+      "label": null,
+      "filesystem": "NTFS",
+      "capacity_gib": 285.4,
+      "free_gib": 62
+    },
+    {
+      "root": "D:\\",
+      "label": null,
+      "filesystem": "NTFS",
+      "capacity_gib": 170,
+      "free_gib": 27.4
+    }
+  ],
+  "scopes": {
+    "User": [
+      {
+        "scope": "User",
+        "name": "Path",
+        "value": "%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "User",
+        "name": "TEMP",
+        "value": "%USERPROFILE%\\AppData\\Local\\Temp",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "User",
+        "name": "TMP",
+        "value": "%USERPROFILE%\\AppData\\Local\\Temp",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      }
+    ],
+    "Machine": [
+      {
+        "scope": "Machine",
+        "name": "Classpath",
+        "value": "E:\\LINGO64_20\\Lingo20.jar",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "ComSpec",
+        "value": "%SystemRoot%\\system32\\cmd.exe",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "COREPACK_HOME",
+        "value": "D:\\nodejs\\corepack-cache",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "DriverData",
+        "value": "C:\\Windows\\System32\\Drivers\\DriverData",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "ENCC_HOME",
+        "value": "E:\\南邮VPN\\enlink\\encc\\",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "ENCLIENT_HOME",
+        "value": "E:\\南邮VPN\\enlink\\ENWAgent.exe",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "IGCCSVC_DB",
+        "value": "[REDACTED_FOR_PUBLIC_REPOSITORY]",
+        "kind": "String",
+        "sensitive": true,
+        "original_value_included": false
+      },
+      {
+        "scope": "Machine",
+        "name": "JAVA_HOME",
+        "value": "E:\\learn.java\\jdk-11.0.2",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "M2_HOME",
+        "value": "E:\\MAVEN",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "NODE_HOME",
+        "value": "D:\\nodejs",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "NPM_CONFIG_CACHE",
+        "value": "D:\\nodejs\\npm-cache",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "NPM_CONFIG_PREFIX",
+        "value": "D:\\nodejs\\npm-global",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "NUMBER_OF_PROCESSORS",
+        "value": "16",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "OS",
+        "value": "Windows_NT",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "Path",
+        "value": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;E:\\app\\liuya\\product\\11.2.0\\dbhome_1\\bin;E:\\database\\dbhomeFree\\bin;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:;Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;E:\\learn.java\\jdk-11.0.2\\bin;E:\\learn.java\\jdk-11.0.2\\jre\\bin;E:\\SPSS24\\JRE\\bin;E:\\LINGO64_20\\;E:\\cloud virtual\\;C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\liuya\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\liuya\\AppData\\Local\\JetBrains\\Toolbox\\scripts;E:\\MAVEN\\bin;D:\\科协学习\\Microsoft VS Code\\bin;E:\\;uangong\\bin;C:\\Users\\liuya\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe;E:\\pythonProjectIORICLE\\venv\\Scripts;E:\\git\\Git\\cmd;C:\\Windows\\System32;C:\\Program Files\\GitHub CLI\\;D:\\nodejs;D:\\nodejs\\npm-global;E:\\matlab\\runtime\\win64;E:\\matlab\\bin;",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "PATHEXT",
+        "value": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "PERL5LIB",
+        "value": "",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "PROCESSOR_ARCHITECTURE",
+        "value": "AMD64",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "PROCESSOR_IDENTIFIER",
+        "value": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "PROCESSOR_LEVEL",
+        "value": "6",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "PROCESSOR_REVISION",
+        "value": "9a03",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "PSModulePath",
+        "value": "%ProgramFiles%\\WindowsPowerShell\\Modules;%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\Modules",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "TEMP",
+        "value": "%SystemRoot%\\TEMP",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "TMP",
+        "value": "%SystemRoot%\\TEMP",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "USERNAME",
+        "value": "SYSTEM",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "windir",
+        "value": "%SystemRoot%",
+        "kind": "ExpandString",
+        "sensitive": false,
+        "original_value_included": true
+      },
+      {
+        "scope": "Machine",
+        "name": "ZES_ENABLE_SYSMAN",
+        "value": "1",
+        "kind": "String",
+        "sensitive": false,
+        "original_value_included": true
+      }
+    ]
+  },
+  "public_export": {
+    "exported_at_utc": "2026-10-13T09:37:34.436Z",
+    "destination": "https://github.com/DESTINY-QAQ/remember",
+    "visibility_at_export": "public",
+    "source_local_backup_sha256": "38f4124f360c26543de7245cb3f016c24027c8ffc7876a0444d510a6775ec526",
+    "retained_raw_value_count": 29,
+    "omitted_values": [
+      {
+        "scope": "Machine",
+        "name": "IGCCSVC_DB",
+        "reason": "Opaque or potentially sensitive value excluded from a public repository."
+      }
+    ]
+  }
+}

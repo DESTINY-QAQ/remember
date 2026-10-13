@@ -1,0 +1,19 @@
+{
+    "disk_drives":  [
+
+                    ],
+    "logical_disk_to_partition":  [
+
+                                  ],
+    "limitations":  [
+                        "Physical disk inventory unavailable in this session: 拒绝访问 ",
+                        "Partition-to-drive mapping unavailable in this session: 拒绝访问 "
+                    ],
+    "conda_process_reference_exists":  true,
+    "conda_python_exists":  true,
+    "conda_environment_directories":  [
+                                          "Paper_reproduction_1",
+                                          "reading",
+                                          "tf"
+                                      ]
+}

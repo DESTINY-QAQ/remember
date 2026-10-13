@@ -1,0 +1,386 @@
+{
+    "generated_at":  "2026-10-13T17:37:36.5905758+08:00",
+    "source_backup_sha256":  "fed617876d75c17c1b806b79e22ed16bd38a777081866dd6bc86a77f757e512d",
+    "source_backup_date":  "2026-10-13T09:47:33+08:00",
+    "requested_scope":  "All",
+    "mode":  "Preview only: no environment changes",
+    "new_user_profile":  "C:\\Users\\liuya",
+    "new_windows_directory":  "C:\\Windows",
+    "write_count":  0,
+    "writes":  [
+
+               ],
+    "decisions":  [
+                      {
+                          "scope":  "Machine",
+                          "name":  "Classpath",
+                          "action":  "Skip",
+                          "reason":  "Target does not exist or is not accessible. Install the software or provide a path mapping first.",
+                          "value":  "E:\\LINGO64_20\\Lingo20.jar"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "ComSpec",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "COREPACK_HOME",
+                          "action":  "Keep",
+                          "reason":  "The persistent value already matches.",
+                          "value":  "D:\\nodejs\\corepack-cache"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "DriverData",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "ENCC_HOME",
+                          "action":  "Skip",
+                          "reason":  "Target does not exist or is not accessible. Install the software or provide a path mapping first.",
+                          "value":  "E:\\南邮VPN\\enlink\\encc\\"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "ENCLIENT_HOME",
+                          "action":  "Skip",
+                          "reason":  "Target does not exist or is not accessible. Install the software or provide a path mapping first.",
+                          "value":  "E:\\南邮VPN\\enlink\\ENWAgent.exe"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "IGCCSVC_DB",
+                          "action":  "Skip",
+                          "reason":  "Opaque or potentially sensitive value requires separate review.",
+                          "value":  "[REDACTED]"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "JAVA_HOME",
+                          "action":  "Skip",
+                          "reason":  "Target does not exist or is not accessible. Install the software or provide a path mapping first.",
+                          "value":  "E:\\learn.java\\jdk-11.0.2"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "M2_HOME",
+                          "action":  "Skip",
+                          "reason":  "Target does not exist or is not accessible. Install the software or provide a path mapping first.",
+                          "value":  "E:\\MAVEN"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "NODE_HOME",
+                          "action":  "Keep",
+                          "reason":  "The persistent value already matches.",
+                          "value":  "D:\\nodejs"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "NPM_CONFIG_CACHE",
+                          "action":  "Keep",
+                          "reason":  "The persistent value already matches.",
+                          "value":  "D:\\nodejs\\npm-cache"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "NPM_CONFIG_PREFIX",
+                          "action":  "Keep",
+                          "reason":  "The persistent value already matches.",
+                          "value":  "D:\\nodejs\\npm-global"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "NUMBER_OF_PROCESSORS",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "OS",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "PATHEXT",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "PERL5LIB",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "PROCESSOR_ARCHITECTURE",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "PROCESSOR_IDENTIFIER",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "PROCESSOR_LEVEL",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "PROCESSOR_REVISION",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "PSModulePath",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "TEMP",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "TMP",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "USERNAME",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "windir",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "ZES_ENABLE_SYSMAN",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "User",
+                          "name":  "TEMP",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "User",
+                          "name":  "TMP",
+                          "action":  "Skip",
+                          "reason":  "Keep new Windows/driver defaults; this variable is outside the reviewed software list.",
+                          "value":  ""
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\app\\liuya\\product\\11.2.0\\dbhome_1\\bin"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\database\\dbhomeFree\\bin"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Relative path, drive root, or unresolved reference.",
+                          "value":  "C:"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Relative path, drive root, or unresolved reference.",
+                          "value":  "Windows\\system32"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Windows and system-profile paths belong to the new system defaults.",
+                          "value":  "C:\\Windows"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Windows and system-profile paths belong to the new system defaults.",
+                          "value":  "C:\\Windows\\System32\\Wbem"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Windows and system-profile paths belong to the new system defaults.",
+                          "value":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Windows and system-profile paths belong to the new system defaults.",
+                          "value":  "C:\\Windows\\System32\\OpenSSH\\"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\learn.java\\jdk-11.0.2\\bin"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\learn.java\\jdk-11.0.2\\jre\\bin"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\SPSS24\\JRE\\bin"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\LINGO64_20\\"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\cloud virtual\\"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Windows and system-profile paths belong to the new system defaults.",
+                          "value":  "C:\\Windows\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\MAVEN\\bin"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "D:\\科协学习\\Microsoft VS Code\\bin"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Relative path, drive root, or unresolved reference.",
+                          "value":  "E:\\"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Relative path, drive root, or unresolved reference.",
+                          "value":  "uangong\\bin"
+                      },
+                      {
+                          "scope":  "User",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Project virtual environment or executable file does not belong in the global PATH.",
+                          "value":  "C:\\Users\\liuya\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Project virtual environment or executable file does not belong in the global PATH.",
+                          "value":  "E:\\pythonProjectIORICLE\\venv\\Scripts"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\git\\Git\\cmd"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Windows and system-profile paths belong to the new system defaults.",
+                          "value":  "C:\\Windows\\System32"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\matlab\\runtime\\win64"
+                      },
+                      {
+                          "scope":  "Machine",
+                          "name":  "Path entry",
+                          "action":  "Skip",
+                          "reason":  "Directory does not exist or is not accessible.",
+                          "value":  "E:\\matlab\\bin"
+                      }
+                  ]
+}
